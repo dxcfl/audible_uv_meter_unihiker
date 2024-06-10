@@ -1,2 +1,2 @@
-# audible_uv_meter_unihiker
+# Audible UV Meter (UNIHIKER)
 Ultraviolet radiation exposure monitoring with acoustic feedback as a wearable UV sensor solution for blind/visually impaired people: A simple "audible UV meter" application for a DFRobot UNIHIKER and a GUVA-S12SD analog UV sensor ...
