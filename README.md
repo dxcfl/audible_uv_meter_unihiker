@@ -6,6 +6,5 @@ A simple "audible UV index meter" application for a [DFRobot UNIHIKER](https://w
 For a detailed description please see 
 
 * this repo's [Wiki](https://github.com/dxcfl/audible_uv_meter_unihiker/wiki),
-* the  [Audible UV Meter - Wiki](https://github.com/dxcfl/audible_uv_meter/wiki),
 * the project [Audible UV Index Meter w/ UNIHIKER](https://www.hackster.io/dxcfl/audible-uv-index-meter-w-unihiker-d0e388) at hackster.io,
-* the main project documentation [Audible UV Meter](https://www.hackster.io/dxcfl/audible-uv-meter-bfcbf3) at hackster.io.
+* the makelog [Audible UV Index Meter](https://community.dfrobot.com/makelog-315051.html) at the DFRobot Maker Community platform.
